@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajshah0912&label=Profile%20views&color=0e75b6&style=flat" alt="vrajshah0912" /> </p>
 
+- 🔭 I’m currently working on **Blockhain Enabled EV Charging Infrastructure**
+
+- 💬 Ask me about **Python,SQL**
+
 - 📫 Reach me at **vrajshahn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@vrajshah0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vrajshah0912" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vraj-shah-127765245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vraj-shah-127765245/" height="30" width="40" /></a>
+<a href="https://instagram.com/vraj_0903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vraj_0903" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vraj shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vraj shah" height="30" width="40" /></a>
 </p>
 
